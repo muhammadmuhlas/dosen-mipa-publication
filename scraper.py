@@ -1,3 +1,4 @@
+# Author: Muhammad Muhlas <muhammadmuhlas3@gmail.com>
 import scrapy
 import json
 import os
